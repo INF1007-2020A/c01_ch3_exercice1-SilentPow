@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import math
-#wow 
+#wow petit commit 
 
 def square_root(number: int) -> float:
     # TODO completer la fonction
